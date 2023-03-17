@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<script src="https://d3js.org/d3.v4.js"></script>
+<body>
+<h2>D3.js Scatter-Plot</h2>
+
+<svg id="myPlot" style="width:500px;height:500px"></svg>
+
+<script>
+// Set Dimensions
+var xSize = 500; 
+var ySize = 500;
+var margin = 40;
+var xMax = xSize - margin*2;
+var yMax = ySize - margin*2;
+
+// Create Random Points
+var numPoints = 100;
+var data = [];
+for (let i = 0; i < numPoints; i++) {
+  data.push([Math.random() * xMax, Math.random() * yMax]);
+}
+
+// Append SVG Object to the Page
+var svg = d3.select("#myPlot")
+  .append("svg")
+  .append("g")
+  .attr("transform","translate(" + margin + "," + margin + ")");
+
+// X Axis
+var x = d3.scaleLinear()
+  .domain([0, 500])
+  .range([0, xMax]);
+
+svg.append("g")
+  .attr("transform", "translate(0," + yMax + ")")
+  .call(d3.axisBottom(x));
+
+// Y Axis
+var y = d3.scaleLinear()
+  .domain([0, 500])
+  .range([ yMax, 0]);
+
+svg.append("g")
+  .call(d3.axisLeft(y));
+
+// Dots
+svg.append('g')
+  .selectAll("dot")
+  .data(data).enter()
+  .append("circle")
+  .attr("cx", function (d) { return d[0] } )
+  .attr("cy", function (d) { return d[1] } )
+  .attr("r", 3)
+  .style("fill", "Red");
+</script>
+
+</body>
+</html>
