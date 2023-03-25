@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+<title>data join</title>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+  
+<body>
+    <div class="textDance"></div>
+    <div id="root"></div>
+    
+    <script>
+        const arr = [1, 2, 3];
+        const svg = d3.select("#root")
+            .append("svg")
+            .attr("width", 200)
+            .attr("height", 200)
+            .style("background", "gray");
+
+        //1.join简化操作
+        const joincircle = svg.selectAll("circle")
+            .data(arr)
+            .join("circle")
+            .attr("cx", (d) => d * 50)
+            .attr("cy", (d) => d * 50)
+            .attr("r", 16)
+            .attr("fill", "#F89301");
+        
+        //2.enter()/exit()
+        /*
+        const circle = svg.selectAll("circle")
+            .data(arr);
+        const newCircle = circle
+            .enter()
+            .append("circle")
+            .merge(circle)
+            .attr("cx", (d) => d * 50)
+            .attr("cy", (d) => d * 50)
+            .attr("r", 16)
+            .attr("fill", "#F89301");
+        */
+
+        // 演示通过enter()exit()操作集合的data join过程
+        function randomLetters() {
+            return d3.shuffle("abcdefghijklmnopqrstuvwxyz".split(""))
+                .slice(0, Math.floor(6 + Math.random() * 20))
+                .sort();
+        }
+
+        const textDance = d3.select(".textDance")
+            .append("svg")
+            .attr("width", 500)
+            .attr("height", 200)
+            .append("g")
+            .attr("transform", `translate(20, 50)`);
+        
+        d3.interval(() => {
+        //使用join只能操作一部分    
+            /*svg.selectAll("text")
+                .data(randomLetters())
+                .join("text")
+                .attr("x", (d, i) => i * 26)
+                .text(d => d);*/
+        // 舍弃使用join()，手动控制enter、update、exit集合的更新
+            const text = textDance.selectAll("text")
+                .data(randomLetters(), (d) => d);
+               
+            // 绿色 代表enter集合
+            text
+                .enter()
+                .append("text")
+                .attr("fill", "green")
+                .attr("y", -30) // 从相对30像素高的上方进入
+                .style("fill-opacity", 0) // 透明
+                .attr("x", (d, i) => i * 26)
+                .text((d) => d)
+                .transition()
+                .duration(750)
+                .attr("y", 0) // 落入正确位置
+                .style("fill-opacity", 1); // 不透明
+            
+            // 灰色 代表update集合
+            text
+                .attr("fill", "gray")
+                .transition()
+                .duration(750)
+                .attr("x", (d, i) => {
+                    return i * 26;
+                });
+            // 红色 代表exit集合
+            text
+                .exit()
+                .attr("fill", "red") // 红色
+                .transition()
+                .duration(750)
+                .attr("y", 30) // 从当前位置落下到相对低30像素的位置
+                .style("fill-opacity", 0) // 透明
+                .remove();
+        }, 1000);
+    </script>
+  </body>
