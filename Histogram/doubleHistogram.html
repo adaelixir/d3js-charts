@@ -2,14 +2,14 @@
 <meta charset="utf-8">
 <script src="https://d3js.org/d3.v6.js"></script>
 <body>
-    <div id="doubleHistogram"></div>
+    <div id="doubleHis"></div>
     <script>
 
         const margin={top:10,bottom:30,left:40,right:30},
             width=460-margin.left-margin.right,
             height=400-margin.top-margin.bottom;
         
-        const svg=d3.select("#doubleHistogram")
+        const svg=d3.select("#doubleHis")
             .append("svg")
                 .attr("width",width+margin.left+margin.right)
                 .attr("height",height+margin.top+margin.bottom)
@@ -63,6 +63,7 @@
             svg.append("circle").attr("cx",300).attr("cy",60).attr("r", 6).style("fill", "#404080")
             svg.append("text").attr("x", 320).attr("y", 30).text("variable A").style("font-size", "15px").attr("alignment-baseline","middle")
             svg.append("text").attr("x", 320).attr("y", 60).text("variable B").style("font-size", "15px").attr("alignment-baseline","middle")
+        
         })
         
 
