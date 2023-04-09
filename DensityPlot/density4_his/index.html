@@ -10,11 +10,12 @@
     const margin = {top:20,bottom:30,left:40,right:30},
         width=960-margin.left-margin.right,
         height=500-margin.top-margin.bottom;
+
     const svg=d3.select("#hisdensity")
         .append("svg")
             .attr("width", width + margin.left + margin.right)
             .attr("height", height + margin.top + margin.bottom)
-            // .style("background","red")
+            //.style("background","red")
         .append("g")
             .attr("transform", `translate(${margin.left},${margin.top})`);
     
@@ -40,9 +41,31 @@
         if(error)throw error;
 
         const n=faithful.length,
-            bins=d3.histogram().domain(x.domain()).thresholds(40)(faithful),
-            density=kernelDensityEstimator(kernelEpanechnikov(7),x.ticks(40))(faithful);
         
+        bins=d3.histogram()
+                .domain(x.domain())
+                .thresholds(40)(faithful),
+    
+        density=kernelDensityEstimator(kernelEpanechnikov(7),x.ticks(40))(faithful)
+
+        // const histogram=d3.histogram()
+        //     //.value(function(d){return d.domain();})
+        //     .domain(x.domain())
+        //     .thresholds(x.ticks(40));
+
+        
+            
+        // const bins=histogram(data);
+
+        // svg.selectAll("rect")
+        //     .data(bins)
+        //     .join("rect")
+        //         .attr("x",function(d){return x(d.x0)+1;})
+        //         .attr("y",function(d){return y(d.length/n);})
+        //         .attr("width",function(d){return x(d.x1)-x(d.x0)-1;})
+        //         .attr("height",function(d){return y(0)-y(d.length/n);})
+        //         .style("fill","#bbb")
+            
         svg.insert("g","*")
             .attr("fill","#bbb")
         .selectAll("rect")
