@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<script src="https://d3js.org/d3.v6.js"></script>
+<div id="donut"></div>
+<script>
+  const width = 450,
+    height = 450,
+    margin = 40;
+
+  const radius = Math.min(width, height) / 2 - margin;
+
+  const svg = d3
+    .select("#donut")
+    .append("svg")
+    .attr("width", width)
+    .attr("height", height)
+    .append("g")
+    .attr("transform", `translate(${width / 2},${height / 2})`);
+
+  const data = {
+    a: 8.6,
+    b: 13.0,
+    c: 10.4,
+    d: 7.7,
+    e: 7.5,
+    g: 10.0,
+    h: 12.2,
+    i: 7.3,
+    j: 12.2,
+    k: 11.1,
+  };
+
+  const color = d3
+    .scaleOrdinal()
+    .range([
+      "#222c15 ",
+      "#526633",
+      "#8e9034",
+      "#929b80",
+      "#aa3724",
+      "#d57856",
+      "#d7cebc",
+      "#e1c221",
+      "#e3b97d",
+      "#f3f0eb",
+    ]);
+
+  const pie = d3.pie().value((d) => d[1]);
+
+  const data_ready = pie(Object.entries(data));
+
+  svg
+    .selectAll("whatever")
+    .data(data_ready)
+    .join("path")
+    .attr("d", d3.arc().innerRadius(0).outerRadius(radius))
+    .attr("fill", (d) => color(d.data[0]))
+    .attr("stroke", "black")
+    .attr("stroke-width", "0px")
+    .style("opacity", 0.7);
+</script>

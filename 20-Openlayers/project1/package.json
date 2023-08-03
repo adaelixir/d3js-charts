@@ -1,0 +1,14 @@
+{
+  "name": "@pbogden/d3-openlayers",
+  "main": "8f2cec75699d565c@538.js",
+  "version": "538.0.0",
+  "homepage": "https://observablehq.com/@pbogden/d3-openlayers",
+  "author": {
+    "name": "pbogden",
+    "url": "https://observablehq.com/@pbogden"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
