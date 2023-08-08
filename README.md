@@ -1,5 +1,3 @@
-## d3js-charts
-
 ### 01-Scatter-Bubble
 
 ### 02-Line
