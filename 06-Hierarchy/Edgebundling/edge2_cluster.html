@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Multi-Layer Force-Directed Edge Bundling</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+  </head>
+  <body>
+    <svg width="800" height="600"></svg>
+
+    <script>
+      // 假设data是处理后的数据，包含不同层次的边信息
+      const data = {
+        nodes: [
+          { id: "A" },
+          { id: "B" },
+          { id: "C" },
+          // ...更多节点
+        ],
+        edges: [
+          { source: "A", target: "B", layer: 1 },
+          { source: "B", target: "C", layer: 2 },
+          // ...更多边
+        ],
+      };
+
+      const svg = d3.select("svg");
+
+      // 绘制边
+      const edges = svg
+        .selectAll(".edge")
+        .data(data.edges)
+        .enter()
+        .append("line")
+        .attr("class", "edge")
+        .style("stroke", (d) => getColorByLayer(d.layer))
+        .style("stroke-width", (d) => getStrokeWidthByLayer(d.layer))
+        .attr("x1", (d) => getNodeById(d.source).x)
+        .attr("y1", (d) => getNodeById(d.source).y)
+        .attr("x2", (d) => getNodeById(d.target).x)
+        .attr("y2", (d) => getNodeById(d.target).y);
+
+      // 创建力导向布局
+      const simulation = d3
+        .forceSimulation(data.nodes)
+        .force(
+          "link",
+          d3.forceLink(data.edges).id((d) => d.id)
+        )
+        .force("charge", d3.forceManyBody().strength(-100))
+        .force("center", d3.forceCenter(400, 300))
+        .on("tick", tick);
+
+      // 更新边的位置
+      function tick() {
+        edges
+          .attr("x1", (d) => getNodeById(d.source).x)
+          .attr("y1", (d) => getNodeById(d.source).y)
+          .attr("x2", (d) => getNodeById(d.target).x)
+          .attr("y2", (d) => getNodeById(d.target).y);
+      }
+
+      // 获取不同层次的颜色
+      function getColorByLayer(layer) {
+        // 根据层次条件返回不同颜色
+        return "blue";
+      }
+
+      // 获取不同层次的线宽
+      function getStrokeWidthByLayer(layer) {
+        // 根据层次条件返回不同线宽
+        return 2;
+      }
+
+      // 根据节点ID获取节点信息
+      function getNodeById(id) {
+        return data.nodes.find((node) => node.id === id);
+      }
+    </script>
+  </body>
+</html>
