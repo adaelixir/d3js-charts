@@ -1,21 +1,26 @@
-# d3js-charts
+## d3js-charts
 
-随手记录学习 D3 时练的的可视化图
+### 01-Bar-Histogram
 
-01-Bar-Histogram
+Barchart
 
-02-Line
+HIstogram
 
-03-Scatter-Bubble
+### 02-Line
 
-04-Density-Area
+### 03-Scatter-Bubble
 
-05-Pie-Spider
+### 04-Density-Area
 
-06-Hierarchy
+### 05-Pie-Spider
 
-11-Scales
+### 06-Hierarchy
 
-22-Openlayer
+Arcdiagram:<br>
+Edgebundling:边缘绑定/层次绑定
 
-33-Animations
+### 11-Scales
+
+### 22-Openlayer
+
+### 33-Animations
