@@ -3,14 +3,13 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>edge1_basic</title>
     <script src="https://d3js.org/d3.v4.js"></script>
   </head>
   <body>
-    <div id="my_dataviz"></div>
+    <div id="edge1_basic"></div>
 
     <script>
-      // Some constants controlling the graph appearance
       const PADDING_BUBBLE = 15; // distance between edge end and bubble
       const PADDING_LABEL = 30; // distance between edge end and engineer name
       const BUBBLE_SIZE_MIN = 4;
@@ -34,7 +33,7 @@
         });
 
       var svg = d3
-        .select("#my_dataviz")
+        .select("#edge1_basic")
         .append("svg")
         .attr("width", diameter)
         .attr("height", diameter)
@@ -55,7 +54,6 @@
       d3.json(
         "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/data_hierarchical_edge_bundling.json",
         function (error, hierarchicalData) {
-          // If wanna see your data
           console.log(hierarchicalData);
 
           // Reformat the data

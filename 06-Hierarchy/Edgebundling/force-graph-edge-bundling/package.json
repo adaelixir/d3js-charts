@@ -1,0 +1,14 @@
+{
+  "name": "@john-guerra/force-graph-edge-bundling",
+  "main": "15144b34a82c9de4@390.js",
+  "version": "390.0.0",
+  "homepage": "https://observablehq.com/@john-guerra/force-graph-edge-bundling",
+  "author": {
+    "name": "John Alexis Guerra Gómez",
+    "url": "https://observablehq.com/@john-guerra"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
