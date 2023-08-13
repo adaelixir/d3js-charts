@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>d3 Integration</title>
+    <link rel="stylesheet" href="node_modules/ol/ol.css" />
+    <style>
+      .map {
+        width: 100%;
+        height: 400px;
+      }
+      path.boundary {
+        fill: none;
+        stroke: #777;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map" class="map"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/d3@7.4.4/dist/d3.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/topojson@3.0.2/dist/topojson.js"></script>
+    <script type="module" src="main.js"></script>
+  </body>
+</html>
