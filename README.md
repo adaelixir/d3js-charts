@@ -1,25 +1,42 @@
-### 01-Scatter-Bubble
+### 1.Data preparation
 
-### 02-Line
+Array(Staristics/Search/Transformations) <br />
+Chords(Chord) <br />
+Collections(Objects/Maps/Sets/Nests) <br />
+Hierarchies(Hierarchy) <br />
+Shapes(Pies/Stacks) <br />
+Time intervals(Time intervals) <br />
 
-### 03-Bar-Histogram
+### 2.Layout calculation
 
-Barchart
+Array(Histograms) <br/>
+Chords(Chord/ribbon) <br />
+Contours(Contours) <br />
+Forces(Force) <br />
+Geographies(Paths/Projections) <br />
+Hierarchies(Cluster/Tree/Treemap/Partition/Pack) <br />
+Scales(Continuous/Quantize/Quantile/Threshold/Ordinal) <br />
+Shaps(Arcs/Lines/Areas) <br />
 
-Histogram
+### 3.DOM manipulation
 
-### 04-Density-Area
+Selections(Selecting/Modifying/Joining data) <br />
 
-### 05-Pie-Spider
+### A.Finishing touches
 
-### 06-Hierarchy
+Axes(Axis) <br />
+Animation(interpolators/Easings/Timers/Transitions) <br />
+Color schemes(Categorical/Diverging/Sequential/Cyclical) <br />
+Format(Number format/Time format) <br />
+Scales for color(Sequential/Diverging) <br />
+Shapes(Curves/Links/Symbols) <br />
 
-Arcdiagram:<br>
-Edgebundling:边缘绑定/层次绑定<br>
-Chord
+### B.Interactions
 
-### 11-Scales
-
-### 22-Openlayer
-
-### 33-Animations
+Brushes(Brush) <br />
+Dispatches(Dispatch) <br />
+Drag(Drag) <br />
+Quadtree(Quadtree) <br />
+Selections(Events) <br />
+Voronoi(Voronoi) <br />
+Zoom(Zoom/Pan) <br />
