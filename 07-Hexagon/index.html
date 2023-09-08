@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>D3.js 旧版本 d3-hexbin 六边形填充</title>
+    <!-- 引入旧版本的 D3.js -->
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <!-- 引入旧版本的 d3-hexbin -->
+    <script src="https://d3js.org/d3-hexbin.v0.2.min.js"></script>
+    <style>
+      /* 样式 */
+      svg {
+        background-color: #f0f0f0;
+      }
+      .hexagon {
+        stroke: #fff;
+        stroke-width: 2;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- 创建 SVG 元素 -->
+    <svg id="map" width="800" height="600"></svg>
+
+    <script>
+      // 示例数据点，代表城市坐标
+      const cityData = [
+        [100, 100],
+        [200, 100],
+        [150, 200],
+        [250, 200],
+        [100, 300],
+        [200, 300],
+      ];
+
+      // 创建 SVG 容器
+      const svg = d3.select("#map");
+
+      // 创建六边形生成器
+      const hexbin = d3
+        .hexbin()
+        .radius(40) // 六边形的半径
+        .extent([
+          [100, 300],
+          [200, 300],
+        ]); // 绘制区域的范围
+
+      // 生成六边形数据
+      const hexagonData = hexbin(cityData);
+
+      // 绘制六边形
+      svg
+        .selectAll(".hexagon")
+        .data(hexagonData)
+        .enter()
+        .append("path")
+        .attr("class", "hexagon")
+        .attr("d", (d) => hexbin.hexagon())
+        .attr("transform", (d) => `translate(${d.x},${d.y})`)
+        .attr("fill", "blue"); // 六边形的填充颜色
+
+      // 绘制数据点
+      svg
+        .selectAll(".city")
+        .data(cityData)
+        .enter()
+        .append("circle")
+        .attr("class", "city")
+        .attr("cx", (d) => d[0])
+        .attr("cy", (d) => d[1])
+        .attr("r", 4) // 数据点的半径
+        .attr("fill", "red"); // 数据点的颜色
+    </script>
+  </body>
+</html>
