@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<script src="https://d3js.org/d3.v6.js"></script>
+
+<html>
+  <body>
+    <select id="selectButton">
+      <option value="value1">Value 1</option>
+      <option value="value2">Value 2</option>
+      <option value="value3">Value 3</option>
+    </select>
+    <script>
+      d3.select("#selectButton")
+        .selectAll("myOptions")
+        .data(allGroup)
+        .enter()
+        .append("option")
+        .text(function (d) {
+          return d;
+        })
+        .attr("value", function (d) {
+          return d;
+        });
+
+      d3.select("#selectButton").on("change", function (d) {
+        selectedGroup = this.value;
+        updateChart(selectedGroup);
+      });
+    </script>
+  </body>
+</html>
