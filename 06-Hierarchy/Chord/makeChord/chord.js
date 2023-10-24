@@ -30,6 +30,7 @@ await d3.json("./data/label_position.json").then(data => {
 
 const allNodes = [...new Set(dataAdj.flatMap(d => d.source).concat(dataAdj.flatMap(d => d.target)))]
 const allTargets = [...new Set(dataAdj.map(d => d.target))];
+const allSources = [...new Set(dataAdj.map(d => d.source))];
 
 const matrix = new Array(allNodes.length).fill(0).map(() => new Array(allNodes.length).fill(0))
 
@@ -54,6 +55,9 @@ const ribbon = d3.ribbon()
 const color = d3.scaleOrdinal(d3.schemeCategory10)
     .domain(allTargets);
 
+const color2 = d3.scaleOrdinal(d3.schemeCategory10)
+    .domain(allSources)
+
 const chords = chord(matrix);
 console.log(chords);
 
@@ -65,7 +69,6 @@ chords.forEach(chord => {
     }
     groups.get(sourceIndex).push(chord);
 });
-
 
 const arc = d3.arc()
     .innerRadius(innerRadius)
