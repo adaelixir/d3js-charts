@@ -4,12 +4,12 @@
 <div id="my_dataviz"></div>
 <script>
   const svg = d3
-    .select("#my_dataviz")
-    .append("svg")
-    .attr("width", 440)
-    .attr("height", 440)
-    .append("g")
-    .attr("transform", "translate(220,220)");
+    .select('#my_dataviz')
+    .append('svg')
+    .attr('width', 440)
+    .attr('height', 440)
+    .append('g')
+    .attr('transform', 'translate(220,220)')
   const matrix = [
     [0, 22780, 2876, 3240, 9230, 6530, 9680, 8560, 9120, 2990],
     [12780, 0, 13570, 5210, 4210, 3210, 2870, 4210, 1340, 1210],
@@ -21,42 +21,42 @@
     [4560, 4210, 2900, 2700, 1700, 3700, 8700, 0, 1234, 1210],
     [3120, 2340, 1700, 4230, 1234, 1234, 9234, 6234, 0, 2210],
     [4990, 1210, 1230, 6210, 1210, 1110, 1210, 2210, 1210, 0],
-  ];
+  ]
   const colors = [
-    "#e1c221",
-    "#526633",
-    "#8e9034",
-    "#929b80",
-    "#222c15",
-    "#d7cebc",
-    "#e3b97d",
-    "#f3f0eb",
-    "#d57856",
-    "#aa3724",
-  ];
-  const res = d3.chord().padAngle(0.01).sortSubgroups(d3.descending)(matrix);
+    '#e1c221',
+    '#526633',
+    '#8e9034',
+    '#929b80',
+    '#222c15',
+    '#d7cebc',
+    '#e3b97d',
+    '#f3f0eb',
+    '#d57856',
+    '#aa3724',
+  ]
+  const res = d3.chord().padAngle(0.01).sortSubgroups(d3.descending)(matrix)
   svg
     .datum(res)
-    .append("g")
-    .selectAll("g")
+    .append('g')
+    .selectAll('g')
     .data(function (d) {
-      return d.groups;
+      return d.groups
     })
-    .join("g")
-    .append("path")
-    .style("fill", (d, i) => colors[i])
-    .style("stroke", "black")
-    .style("stroke-width", "0.2px")
-    .attr("d", d3.arc().innerRadius(200).outerRadius(210));
+    .join('g')
+    .append('path')
+    .style('fill', (d, i) => colors[i])
+    .style('stroke', 'black')
+    .style('stroke-width', '0.2px')
+    .attr('d', d3.arc().innerRadius(200).outerRadius(210))
   svg
     .datum(res)
-    .append("g")
-    .selectAll("path")
+    .append('g')
+    .selectAll('path')
     .data((d) => d)
-    .join("path")
-    .attr("d", d3.ribbon().radius(200))
-    .style("fill", (d) => colors[d.source.index]) // colors depend on the source group. Change to target otherwise.
-    .style("stroke", "black")
-    .style("stroke-width", "0.0px")
-    .style("opacity", 0.9);
+    .join('path')
+    .attr('d', d3.ribbon().radius(200))
+    .style('fill', (d) => colors[d.source.index]) // colors depend on the source group. Change to target otherwise.
+    .style('stroke', 'black')
+    .style('stroke-width', '0.0px')
+    .style('opacity', 0.9)
 </script>
