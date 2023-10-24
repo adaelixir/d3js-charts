@@ -1,0 +1,3272 @@
+[
+    {
+        "source": "良好",
+        "target": "UI设计师",
+        "value": 1.0764069547
+    },
+    {
+        "source": "良好",
+        "target": "交互设计师",
+        "value": 0.8480565588
+    },
+    {
+        "source": "良好",
+        "target": "视觉设计师",
+        "value": 1.1165927899
+    },
+    {
+        "source": "良好",
+        "target": "用户体验",
+        "value": 0.9777737236
+    },
+    {
+        "source": "良好",
+        "target": "产品经理",
+        "value": 1.1453742084
+    },
+    {
+        "source": "良好",
+        "target": "用户研究",
+        "value": 1.1419910048
+    },
+    {
+        "source": "熟练",
+        "target": "UI设计师",
+        "value": 0.7469485438
+    },
+    {
+        "source": "熟练",
+        "target": "交互设计师",
+        "value": 0.5826939016
+    },
+    {
+        "source": "熟练",
+        "target": "视觉设计师",
+        "value": 0.7515109618
+    },
+    {
+        "source": "熟练",
+        "target": "用户体验",
+        "value": 0.7279801535
+    },
+    {
+        "source": "熟练",
+        "target": "产品经理",
+        "value": 0.6720697878
+    },
+    {
+        "source": "熟练",
+        "target": "用户研究",
+        "value": 0.8672494486
+    },
+    {
+        "source": "较强",
+        "target": "UI设计师",
+        "value": 0.6034993568
+    },
+    {
+        "source": "较强",
+        "target": "交互设计师",
+        "value": 0.4547475339
+    },
+    {
+        "source": "较强",
+        "target": "视觉设计师",
+        "value": 0.5830207883
+    },
+    {
+        "source": "较强",
+        "target": "用户体验",
+        "value": 0.7001845731
+    },
+    {
+        "source": "较强",
+        "target": "产品经理",
+        "value": 1.1327674246
+    },
+    {
+        "source": "较强",
+        "target": "用户研究",
+        "value": 0.9075094202
+    },
+    {
+        "source": "精通",
+        "target": "UI设计师",
+        "value": 0.4879908428
+    },
+    {
+        "source": "精通",
+        "target": "交互设计师",
+        "value": 0.2334001244
+    },
+    {
+        "source": "精通",
+        "target": "视觉设计师",
+        "value": 0.3823120067
+    },
+    {
+        "source": "精通",
+        "target": "用户体验",
+        "value": 0.1385076496
+    },
+    {
+        "source": "精通",
+        "target": "产品经理",
+        "value": 0.0736699465
+    },
+    {
+        "source": "精通",
+        "target": "用户研究",
+        "value": 0.0458348434
+    },
+    {
+        "source": "优秀",
+        "target": "UI设计师",
+        "value": 0.4658784202
+    },
+    {
+        "source": "优秀",
+        "target": "交互设计师",
+        "value": 0.4931247484
+    },
+    {
+        "source": "优秀",
+        "target": "视觉设计师",
+        "value": 0.5264125692
+    },
+    {
+        "source": "优秀",
+        "target": "用户体验",
+        "value": 0.7537191276
+    },
+    {
+        "source": "优秀",
+        "target": "产品经理",
+        "value": 0.598733071
+    },
+    {
+        "source": "优秀",
+        "target": "用户研究",
+        "value": 0.5479685023
+    },
+    {
+        "source": "热爱",
+        "target": "UI设计师",
+        "value": 0.419073294
+    },
+    {
+        "source": "热爱",
+        "target": "交互设计师",
+        "value": 0.3693410083
+    },
+    {
+        "source": "热爱",
+        "target": "视觉设计师",
+        "value": 0.3020083576
+    },
+    {
+        "source": "热爱",
+        "target": "用户体验",
+        "value": 0.1402749688
+    },
+    {
+        "source": "热爱",
+        "target": "产品经理",
+        "value": 0.1492199093
+    },
+    {
+        "source": "热爱",
+        "target": "用户研究",
+        "value": 0.3017279413
+    },
+    {
+        "source": "较好",
+        "target": "UI设计师",
+        "value": 0.3939309444
+    },
+    {
+        "source": "较好",
+        "target": "交互设计师",
+        "value": 0.1907675665
+    },
+    {
+        "source": "较好",
+        "target": "视觉设计师",
+        "value": 0.3999736339
+    },
+    {
+        "source": "较好",
+        "target": "用户体验",
+        "value": 0.2415104546
+    },
+    {
+        "source": "较好",
+        "target": "产品经理",
+        "value": 0.2523232028
+    },
+    {
+        "source": "较好",
+        "target": "用户研究",
+        "value": 0.3996022564
+    },
+    {
+        "source": "敏锐",
+        "target": "UI设计师",
+        "value": 0.3527096507
+    },
+    {
+        "source": "敏锐",
+        "target": "交互设计师",
+        "value": 0.3208633908
+    },
+    {
+        "source": "敏锐",
+        "target": "视觉设计师",
+        "value": 0.284312569
+    },
+    {
+        "source": "敏锐",
+        "target": "用户体验",
+        "value": 0.4352259557
+    },
+    {
+        "source": "敏锐",
+        "target": "产品经理",
+        "value": 0.2094429223
+    },
+    {
+        "source": "敏锐",
+        "target": "用户研究",
+        "value": 0.0960164225
+    },
+    {
+        "source": "扎实",
+        "target": "UI设计师",
+        "value": 0.3460324243
+    },
+    {
+        "source": "扎实",
+        "target": "交互设计师",
+        "value": 0.2505820796
+    },
+    {
+        "source": "扎实",
+        "target": "视觉设计师",
+        "value": 0.4210798143
+    },
+    {
+        "source": "扎实",
+        "target": "用户体验",
+        "value": 0.1399567171
+    },
+    {
+        "source": "扎实",
+        "target": "产品经理",
+        "value": 0.1116610226
+    },
+    {
+        "source": "扎实",
+        "target": "用户研究",
+        "value": 0.3705149412
+    },
+    {
+        "source": "丰富",
+        "target": "UI设计师",
+        "value": 0.1888192571
+    },
+    {
+        "source": "丰富",
+        "target": "交互设计师",
+        "value": 0.1833856817
+    },
+    {
+        "source": "丰富",
+        "target": "视觉设计师",
+        "value": 0.2099552566
+    },
+    {
+        "source": "丰富",
+        "target": "用户体验",
+        "value": 0.091644094
+    },
+    {
+        "source": "丰富",
+        "target": "产品经理",
+        "value": 0.066152558
+    },
+    {
+        "source": "丰富",
+        "target": "用户研究",
+        "value": 0.2426143369
+    },
+    {
+        "source": "高效",
+        "target": "UI设计师",
+        "value": 0.1662595036
+    },
+    {
+        "source": "高效",
+        "target": "交互设计师",
+        "value": 0.1507832201
+    },
+    {
+        "source": "高效",
+        "target": "视觉设计师",
+        "value": 0.0934050836
+    },
+    {
+        "source": "高效",
+        "target": "用户体验",
+        "value": 0.1301526417
+    },
+    {
+        "source": "高效",
+        "target": "产品经理",
+        "value": 0.0593366185
+    },
+    {
+        "source": "高效",
+        "target": "用户研究",
+        "value": 0.064605016
+    },
+    {
+        "source": "完整",
+        "target": "UI设计师",
+        "value": 0.1638251306
+    },
+    {
+        "source": "完整",
+        "target": "交互设计师",
+        "value": 0.3212042127
+    },
+    {
+        "source": "完整",
+        "target": "视觉设计师",
+        "value": 0.0721558056
+    },
+    {
+        "source": "完整",
+        "target": "用户体验",
+        "value": 0.0435688254
+    },
+    {
+        "source": "完整",
+        "target": "产品经理",
+        "value": 0.0806935888
+    },
+    {
+        "source": "完整",
+        "target": "用户研究",
+        "value": 0.0360444043
+    },
+    {
+        "source": "成熟",
+        "target": "UI设计师",
+        "value": 0.1340473214
+    },
+    {
+        "source": "成熟",
+        "target": "交互设计师",
+        "value": 0.1740215817
+    },
+    {
+        "source": "成熟",
+        "target": "视觉设计师",
+        "value": 0.1197207024
+    },
+    {
+        "source": "成熟",
+        "target": "用户体验",
+        "value": 0.268502996
+    },
+    {
+        "source": "成熟",
+        "target": "产品经理",
+        "value": 0.0294256192
+    },
+    {
+        "source": "成熟",
+        "target": "用户研究",
+        "value": 0.0854353865
+    },
+    {
+        "source": "准确",
+        "target": "UI设计师",
+        "value": 0.101568156
+    },
+    {
+        "source": "准确",
+        "target": "交互设计师",
+        "value": 0.0353990563
+    },
+    {
+        "source": "准确",
+        "target": "视觉设计师",
+        "value": 0.0927744784
+    },
+    {
+        "source": "准确",
+        "target": "用户体验",
+        "value": 0.0448149669
+    },
+    {
+        "source": "准确",
+        "target": "产品经理",
+        "value": 0.0915145415
+    },
+    {
+        "source": "准确",
+        "target": "用户研究",
+        "value": 0.0370753347
+    },
+    {
+        "source": "较高",
+        "target": "UI设计师",
+        "value": 0.0926404714
+    },
+    {
+        "source": "较高",
+        "target": "交互设计师",
+        "value": 0.0231000241
+    },
+    {
+        "source": "较高",
+        "target": "视觉设计师",
+        "value": 0.0877843854
+    },
+    {
+        "source": "较高",
+        "target": "用户体验",
+        "value": 0.1096667812
+    },
+    {
+        "source": "较高",
+        "target": "产品经理",
+        "value": 0.0187489163
+    },
+    {
+        "source": "较高",
+        "target": "用户研究",
+        "value": 0.0362908457
+    },
+    {
+        "source": "清晰",
+        "target": "UI设计师",
+        "value": 0.0915035421
+    },
+    {
+        "source": "清晰",
+        "target": "交互设计师",
+        "value": 0.4308120994
+    },
+    {
+        "source": "清晰",
+        "target": "视觉设计师",
+        "value": 0.1516193193
+    },
+    {
+        "source": "清晰",
+        "target": "用户体验",
+        "value": 0.163621565
+    },
+    {
+        "source": "清晰",
+        "target": "产品经理",
+        "value": 0.2708512854
+    },
+    {
+        "source": "清晰",
+        "target": "用户研究",
+        "value": 0.0773507438
+    },
+    {
+        "source": "深厚",
+        "target": "UI设计师",
+        "value": 0.0838267142
+    },
+    {
+        "source": "深厚",
+        "target": "交互设计师",
+        "value": 0.0276449802
+    },
+    {
+        "source": "深厚",
+        "target": "视觉设计师",
+        "value": 0.0688298346
+    },
+    {
+        "source": "深厚",
+        "target": "用户体验",
+        "value": 0.0524975382
+    },
+    {
+        "source": "深厚",
+        "target": "产品经理",
+        "value": 0.0
+    },
+    {
+        "source": "深厚",
+        "target": "用户研究",
+        "value": 0.0217155555
+    },
+    {
+        "source": "成功",
+        "target": "UI设计师",
+        "value": 0.0791110347
+    },
+    {
+        "source": "成功",
+        "target": "交互设计师",
+        "value": 0.1786848567
+    },
+    {
+        "source": "成功",
+        "target": "视觉设计师",
+        "value": 0.0665479602
+    },
+    {
+        "source": "成功",
+        "target": "用户体验",
+        "value": 0.0357179724
+    },
+    {
+        "source": "成功",
+        "target": "产品经理",
+        "value": 0.0966852503
+    },
+    {
+        "source": "成功",
+        "target": "用户研究",
+        "value": 0.0738735224
+    },
+    {
+        "source": "很好",
+        "target": "UI设计师",
+        "value": 0.0697140187
+    },
+    {
+        "source": "很好",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "很好",
+        "target": "视觉设计师",
+        "value": 0.0380497156
+    },
+    {
+        "source": "很好",
+        "target": "用户体验",
+        "value": 0.0501273266
+    },
+    {
+        "source": "很好",
+        "target": "产品经理",
+        "value": 0.0476105404
+    },
+    {
+        "source": "很好",
+        "target": "用户研究",
+        "value": 0.0414702395
+    },
+    {
+        "source": "强烈",
+        "target": "UI设计师",
+        "value": 0.0555417847
+    },
+    {
+        "source": "强烈",
+        "target": "交互设计师",
+        "value": 0.0946376864
+    },
+    {
+        "source": "强烈",
+        "target": "视觉设计师",
+        "value": 0.0826760457
+    },
+    {
+        "source": "强烈",
+        "target": "用户体验",
+        "value": 0.1996844561
+    },
+    {
+        "source": "强烈",
+        "target": "产品经理",
+        "value": 0.1763826147
+    },
+    {
+        "source": "强烈",
+        "target": "用户研究",
+        "value": 0.2312779857
+    },
+    {
+        "source": "很强",
+        "target": "UI设计师",
+        "value": 0.0523142822
+    },
+    {
+        "source": "很强",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "很强",
+        "target": "视觉设计师",
+        "value": 0.0315380734
+    },
+    {
+        "source": "很强",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "很强",
+        "target": "产品经理",
+        "value": 0.0458205858
+    },
+    {
+        "source": "很强",
+        "target": "用户研究",
+        "value": 0.1260351607
+    },
+    {
+        "source": "完美",
+        "target": "UI设计师",
+        "value": 0.0520320514
+    },
+    {
+        "source": "完美",
+        "target": "交互设计师",
+        "value": 0.0265972348
+    },
+    {
+        "source": "完美",
+        "target": "视觉设计师",
+        "value": 0.0453092299
+    },
+    {
+        "source": "完美",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "完美",
+        "target": "产品经理",
+        "value": 0.0047971987
+    },
+    {
+        "source": "完美",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "独特",
+        "target": "UI设计师",
+        "value": 0.0500924814
+    },
+    {
+        "source": "独特",
+        "target": "交互设计师",
+        "value": 0.0465559716
+    },
+    {
+        "source": "独特",
+        "target": "视觉设计师",
+        "value": 0.0915110408
+    },
+    {
+        "source": "独特",
+        "target": "用户体验",
+        "value": 0.0221023299
+    },
+    {
+        "source": "独特",
+        "target": "产品经理",
+        "value": 0.0188933572
+    },
+    {
+        "source": "独特",
+        "target": "用户研究",
+        "value": 0.0365704289
+    },
+    {
+        "source": "不同",
+        "target": "UI设计师",
+        "value": 0.0499511646
+    },
+    {
+        "source": "不同",
+        "target": "交互设计师",
+        "value": 0.0773743862
+    },
+    {
+        "source": "不同",
+        "target": "视觉设计师",
+        "value": 0.0385289927
+    },
+    {
+        "source": "不同",
+        "target": "用户体验",
+        "value": 0.0734665889
+    },
+    {
+        "source": "不同",
+        "target": "产品经理",
+        "value": 0.0181422769
+    },
+    {
+        "source": "不同",
+        "target": "用户研究",
+        "value": 0.0486230126
+    },
+    {
+        "source": "敏感",
+        "target": "UI设计师",
+        "value": 0.0459359954
+    },
+    {
+        "source": "敏感",
+        "target": "交互设计师",
+        "value": 0.0617924015
+    },
+    {
+        "source": "敏感",
+        "target": "视觉设计师",
+        "value": 0.0259114605
+    },
+    {
+        "source": "敏感",
+        "target": "用户体验",
+        "value": 0.1173431462
+    },
+    {
+        "source": "敏感",
+        "target": "产品经理",
+        "value": 0.2385064179
+    },
+    {
+        "source": "敏感",
+        "target": "用户研究",
+        "value": 0.0776622049
+    },
+    {
+        "source": "灵活",
+        "target": "UI设计师",
+        "value": 0.0400766807
+    },
+    {
+        "source": "灵活",
+        "target": "交互设计师",
+        "value": 0.0602529571
+    },
+    {
+        "source": "灵活",
+        "target": "视觉设计师",
+        "value": 0.0221076835
+    },
+    {
+        "source": "灵活",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "灵活",
+        "target": "产品经理",
+        "value": 0.0173879976
+    },
+    {
+        "source": "灵活",
+        "target": "用户研究",
+        "value": 0.1135910901
+    },
+    {
+        "source": "严谨",
+        "target": "UI设计师",
+        "value": 0.0390283214
+    },
+    {
+        "source": "严谨",
+        "target": "交互设计师",
+        "value": 0.142500824
+    },
+    {
+        "source": "严谨",
+        "target": "视觉设计师",
+        "value": 0.0261428092
+    },
+    {
+        "source": "严谨",
+        "target": "用户体验",
+        "value": 0.0270607625
+    },
+    {
+        "source": "严谨",
+        "target": "产品经理",
+        "value": 0.0976679776
+    },
+    {
+        "source": "严谨",
+        "target": "用户研究",
+        "value": 0.0223873161
+    },
+    {
+        "source": "有效",
+        "target": "UI设计师",
+        "value": 0.0367409397
+    },
+    {
+        "source": "有效",
+        "target": "交互设计师",
+        "value": 0.1126852437
+    },
+    {
+        "source": "有效",
+        "target": "视觉设计师",
+        "value": 0.0664486869
+    },
+    {
+        "source": "有效",
+        "target": "用户体验",
+        "value": 0.0534970349
+    },
+    {
+        "source": "有效",
+        "target": "产品经理",
+        "value": 0.0592795733
+    },
+    {
+        "source": "有效",
+        "target": "用户研究",
+        "value": 0.0442579926
+    },
+    {
+        "source": "细致",
+        "target": "UI设计师",
+        "value": 0.0356981054
+    },
+    {
+        "source": "细致",
+        "target": "交互设计师",
+        "value": 0.0701838774
+    },
+    {
+        "source": "细致",
+        "target": "视觉设计师",
+        "value": 0.0809332296
+    },
+    {
+        "source": "细致",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "细致",
+        "target": "产品经理",
+        "value": 0.0405077908
+    },
+    {
+        "source": "细致",
+        "target": "用户研究",
+        "value": 0.0220522044
+    },
+    {
+        "source": "踏实",
+        "target": "UI设计师",
+        "value": 0.0351169442
+    },
+    {
+        "source": "踏实",
+        "target": "交互设计师",
+        "value": 0.0747947327
+    },
+    {
+        "source": "踏实",
+        "target": "视觉设计师",
+        "value": 0.0235228044
+    },
+    {
+        "source": "踏实",
+        "target": "用户体验",
+        "value": 0.0568137767
+    },
+    {
+        "source": "踏实",
+        "target": "产品经理",
+        "value": 0.0863380451
+    },
+    {
+        "source": "踏实",
+        "target": "用户研究",
+        "value": 0.0470019267
+    },
+    {
+        "source": "耐心",
+        "target": "UI设计师",
+        "value": 0.0346489525
+    },
+    {
+        "source": "耐心",
+        "target": "交互设计师",
+        "value": 0.0136242403
+    },
+    {
+        "source": "耐心",
+        "target": "视觉设计师",
+        "value": 0.0714133044
+    },
+    {
+        "source": "耐心",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "耐心",
+        "target": "产品经理",
+        "value": 0.0368599531
+    },
+    {
+        "source": "耐心",
+        "target": "用户研究",
+        "value": 0.021404099
+    },
+    {
+        "source": "特效",
+        "target": "UI设计师",
+        "value": 0.0304605919
+    },
+    {
+        "source": "特效",
+        "target": "交互设计师",
+        "value": 0.017300608
+    },
+    {
+        "source": "特效",
+        "target": "视觉设计师",
+        "value": 0.0226708711
+    },
+    {
+        "source": "特效",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "特效",
+        "target": "产品经理",
+        "value": 0.0
+    },
+    {
+        "source": "特效",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "敏捷",
+        "target": "UI设计师",
+        "value": 0.0274930097
+    },
+    {
+        "source": "敏捷",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "敏捷",
+        "target": "视觉设计师",
+        "value": 0.0368319457
+    },
+    {
+        "source": "敏捷",
+        "target": "用户体验",
+        "value": 0.0296529544
+    },
+    {
+        "source": "敏捷",
+        "target": "产品经理",
+        "value": 0.1013909141
+    },
+    {
+        "source": "敏捷",
+        "target": "用户研究",
+        "value": 0.1717228194
+    },
+    {
+        "source": "复杂",
+        "target": "UI设计师",
+        "value": 0.026331454
+    },
+    {
+        "source": "复杂",
+        "target": "交互设计师",
+        "value": 0.0621224074
+    },
+    {
+        "source": "复杂",
+        "target": "视觉设计师",
+        "value": 0.035275828
+    },
+    {
+        "source": "复杂",
+        "target": "用户体验",
+        "value": 0.1966163735
+    },
+    {
+        "source": "复杂",
+        "target": "产品经理",
+        "value": 0.0578908523
+    },
+    {
+        "source": "复杂",
+        "target": "用户研究",
+        "value": 0.1463943082
+    },
+    {
+        "source": "强大",
+        "target": "UI设计师",
+        "value": 0.0240576462
+    },
+    {
+        "source": "强大",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "强大",
+        "target": "视觉设计师",
+        "value": 0.0087899029
+    },
+    {
+        "source": "强大",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "强大",
+        "target": "产品经理",
+        "value": 0.0241968291
+    },
+    {
+        "source": "强大",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "适当",
+        "target": "UI设计师",
+        "value": 0.02389982
+    },
+    {
+        "source": "适当",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "适当",
+        "target": "视觉设计师",
+        "value": 0.0349289528
+    },
+    {
+        "source": "适当",
+        "target": "用户体验",
+        "value": 0.0210906584
+    },
+    {
+        "source": "适当",
+        "target": "产品经理",
+        "value": 0.0060095224
+    },
+    {
+        "source": "适当",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "先进",
+        "target": "UI设计师",
+        "value": 0.0238943023
+    },
+    {
+        "source": "先进",
+        "target": "交互设计师",
+        "value": 0.0222073738
+    },
+    {
+        "source": "先进",
+        "target": "视觉设计师",
+        "value": 0.0058201481
+    },
+    {
+        "source": "先进",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "先进",
+        "target": "产品经理",
+        "value": 0.0020027117
+    },
+    {
+        "source": "先进",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "宽广",
+        "target": "UI设计师",
+        "value": 0.0233762445
+    },
+    {
+        "source": "宽广",
+        "target": "交互设计师",
+        "value": 0.0746827491
+    },
+    {
+        "source": "宽广",
+        "target": "视觉设计师",
+        "value": 0.0234875858
+    },
+    {
+        "source": "宽广",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "宽广",
+        "target": "产品经理",
+        "value": 0.0026940243
+    },
+    {
+        "source": "宽广",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "娴熟",
+        "target": "UI设计师",
+        "value": 0.02288012
+    },
+    {
+        "source": "娴熟",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "娴熟",
+        "target": "视觉设计师",
+        "value": 0.0350310068
+    },
+    {
+        "source": "娴熟",
+        "target": "用户体验",
+        "value": 0.0634568407
+    },
+    {
+        "source": "娴熟",
+        "target": "产品经理",
+        "value": 0.0060270808
+    },
+    {
+        "source": "娴熟",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "乐观",
+        "target": "UI设计师",
+        "value": 0.021083014
+    },
+    {
+        "source": "乐观",
+        "target": "交互设计师",
+        "value": 0.0646620524
+    },
+    {
+        "source": "乐观",
+        "target": "视觉设计师",
+        "value": 0.0310690345
+    },
+    {
+        "source": "乐观",
+        "target": "用户体验",
+        "value": 0.0613962921
+    },
+    {
+        "source": "乐观",
+        "target": "产品经理",
+        "value": 0.0311006481
+    },
+    {
+        "source": "乐观",
+        "target": "用户研究",
+        "value": 0.0338620219
+    },
+    {
+        "source": "简单",
+        "target": "UI设计师",
+        "value": 0.019487321
+    },
+    {
+        "source": "简单",
+        "target": "交互设计师",
+        "value": 0.009961338
+    },
+    {
+        "source": "简单",
+        "target": "视觉设计师",
+        "value": 0.0182747967
+    },
+    {
+        "source": "简单",
+        "target": "用户体验",
+        "value": 0.0378329606
+    },
+    {
+        "source": "简单",
+        "target": "产品经理",
+        "value": 0.0269500863
+    },
+    {
+        "source": "简单",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "顺畅",
+        "target": "UI设计师",
+        "value": 0.0154296416
+    },
+    {
+        "source": "顺畅",
+        "target": "交互设计师",
+        "value": 0.0315486927
+    },
+    {
+        "source": "顺畅",
+        "target": "视觉设计师",
+        "value": 0.0
+    },
+    {
+        "source": "顺畅",
+        "target": "用户体验",
+        "value": 0.0599106488
+    },
+    {
+        "source": "顺畅",
+        "target": "产品经理",
+        "value": 0.0654380623
+    },
+    {
+        "source": "顺畅",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "平衡",
+        "target": "UI设计师",
+        "value": 0.0126028163
+    },
+    {
+        "source": "平衡",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "平衡",
+        "target": "视觉设计师",
+        "value": 0.0140698263
+    },
+    {
+        "source": "平衡",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "平衡",
+        "target": "产品经理",
+        "value": 0.0038731393
+    },
+    {
+        "source": "平衡",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "有大",
+        "target": "UI设计师",
+        "value": 0.0124399246
+    },
+    {
+        "source": "有大",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "有大",
+        "target": "视觉设计师",
+        "value": 0.0111103787
+    },
+    {
+        "source": "有大",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "有大",
+        "target": "产品经理",
+        "value": 0.0076461577
+    },
+    {
+        "source": "有大",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "最好",
+        "target": "UI设计师",
+        "value": 0.0120280841
+    },
+    {
+        "source": "最好",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "最好",
+        "target": "视觉设计师",
+        "value": 0.0134281933
+    },
+    {
+        "source": "最好",
+        "target": "用户体验",
+        "value": 0.0194595771
+    },
+    {
+        "source": "最好",
+        "target": "产品经理",
+        "value": 0.0036965107
+    },
+    {
+        "source": "最好",
+        "target": "用户研究",
+        "value": 0.0160988702
+    },
+    {
+        "source": "不足",
+        "target": "UI设计师",
+        "value": 0.0118893282
+    },
+    {
+        "source": "不足",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "不足",
+        "target": "视觉设计师",
+        "value": 0.0
+    },
+    {
+        "source": "不足",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "不足",
+        "target": "产品经理",
+        "value": 0.0036538677
+    },
+    {
+        "source": "不足",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "新颖",
+        "target": "UI设计师",
+        "value": 0.0118414175
+    },
+    {
+        "source": "新颖",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "新颖",
+        "target": "视觉设计师",
+        "value": 0.0079318788
+    },
+    {
+        "source": "新颖",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "新颖",
+        "target": "产品经理",
+        "value": 0.0
+    },
+    {
+        "source": "新颖",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "巧妙",
+        "target": "UI设计师",
+        "value": 0.0109735874
+    },
+    {
+        "source": "巧妙",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "巧妙",
+        "target": "视觉设计师",
+        "value": 0.0073505698
+    },
+    {
+        "source": "巧妙",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "巧妙",
+        "target": "产品经理",
+        "value": 0.0
+    },
+    {
+        "source": "巧妙",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "有限",
+        "target": "UI设计师",
+        "value": 0.010619674
+    },
+    {
+        "source": "有限",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "有限",
+        "target": "视觉设计师",
+        "value": 0.0028454015
+    },
+    {
+        "source": "有限",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "有限",
+        "target": "产品经理",
+        "value": 0.001958204
+    },
+    {
+        "source": "有限",
+        "target": "用户研究",
+        "value": 0.0170565572
+    },
+    {
+        "source": "诚实",
+        "target": "UI设计师",
+        "value": 0.0095641493
+    },
+    {
+        "source": "诚实",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "诚实",
+        "target": "视觉设计师",
+        "value": 0.0085419586
+    },
+    {
+        "source": "诚实",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "诚实",
+        "target": "产品经理",
+        "value": 0.0117571442
+    },
+    {
+        "source": "诚实",
+        "target": "用户研究",
+        "value": 0.025602082
+    },
+    {
+        "source": "具体",
+        "target": "UI设计师",
+        "value": 0.0095488694
+    },
+    {
+        "source": "具体",
+        "target": "交互设计师",
+        "value": 0.0292865857
+    },
+    {
+        "source": "具体",
+        "target": "视觉设计师",
+        "value": 0.0102339742
+    },
+    {
+        "source": "具体",
+        "target": "用户体验",
+        "value": 0.0185383101
+    },
+    {
+        "source": "具体",
+        "target": "产品经理",
+        "value": 0.0176075411
+    },
+    {
+        "source": "具体",
+        "target": "用户研究",
+        "value": 0.0153367078
+    },
+    {
+        "source": "极强",
+        "target": "UI设计师",
+        "value": 0.0091707402
+    },
+    {
+        "source": "极强",
+        "target": "交互设计师",
+        "value": 0.0781301535
+    },
+    {
+        "source": "极强",
+        "target": "视觉设计师",
+        "value": 0.0245717881
+    },
+    {
+        "source": "极强",
+        "target": "用户体验",
+        "value": 0.0296736745
+    },
+    {
+        "source": "极强",
+        "target": "产品经理",
+        "value": 0.0704595564
+    },
+    {
+        "source": "极强",
+        "target": "用户研究",
+        "value": 0.1718428112
+    },
+    {
+        "source": "充满",
+        "target": "UI设计师",
+        "value": 0.0088227465
+    },
+    {
+        "source": "充满",
+        "target": "交互设计师",
+        "value": 0.0338244391
+    },
+    {
+        "source": "充满",
+        "target": "视觉设计师",
+        "value": 0.0118196925
+    },
+    {
+        "source": "充满",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "充满",
+        "target": "产品经理",
+        "value": 0.0284700747
+    },
+    {
+        "source": "充满",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "有好",
+        "target": "UI设计师",
+        "value": 0.008293283
+    },
+    {
+        "source": "有好",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "有好",
+        "target": "视觉设计师",
+        "value": 0.0111103787
+    },
+    {
+        "source": "有好",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "有好",
+        "target": "产品经理",
+        "value": 0.0
+    },
+    {
+        "source": "有好",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "浓厚",
+        "target": "UI设计师",
+        "value": 0.008073507
+    },
+    {
+        "source": "浓厚",
+        "target": "交互设计师",
+        "value": 0.0137564543
+    },
+    {
+        "source": "浓厚",
+        "target": "视觉设计师",
+        "value": 0.0108159483
+    },
+    {
+        "source": "浓厚",
+        "target": "用户体验",
+        "value": 0.1044934713
+    },
+    {
+        "source": "浓厚",
+        "target": "产品经理",
+        "value": 0.0074435308
+    },
+    {
+        "source": "浓厚",
+        "target": "用户研究",
+        "value": 0.0216118113
+    },
+    {
+        "source": "和谐",
+        "target": "UI设计师",
+        "value": 0.0075788498
+    },
+    {
+        "source": "和谐",
+        "target": "交互设计师",
+        "value": 0.0258272152
+    },
+    {
+        "source": "和谐",
+        "target": "视觉设计师",
+        "value": 0.0
+    },
+    {
+        "source": "和谐",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "和谐",
+        "target": "产品经理",
+        "value": 0.0
+    },
+    {
+        "source": "和谐",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "新锐",
+        "target": "UI设计师",
+        "value": 0.0072837185
+    },
+    {
+        "source": "新锐",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "新锐",
+        "target": "视觉设计师",
+        "value": 0.0097578813
+    },
+    {
+        "source": "新锐",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "新锐",
+        "target": "产品经理",
+        "value": 0.0033576848
+    },
+    {
+        "source": "新锐",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "较大",
+        "target": "UI设计师",
+        "value": 0.0069792516
+    },
+    {
+        "source": "较大",
+        "target": "交互设计师",
+        "value": 0.0089189638
+    },
+    {
+        "source": "较大",
+        "target": "视觉设计师",
+        "value": 0.0116874897
+    },
+    {
+        "source": "较大",
+        "target": "用户体验",
+        "value": 0.0169370222
+    },
+    {
+        "source": "较大",
+        "target": "产品经理",
+        "value": 0.0723899269
+    },
+    {
+        "source": "较大",
+        "target": "用户研究",
+        "value": 0.0140119654
+    },
+    {
+        "source": "方便",
+        "target": "UI设计师",
+        "value": 0.0065564783
+    },
+    {
+        "source": "方便",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "方便",
+        "target": "视觉设计师",
+        "value": 0.0029278697
+    },
+    {
+        "source": "方便",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "方便",
+        "target": "产品经理",
+        "value": 0.0
+    },
+    {
+        "source": "方便",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "清楚",
+        "target": "UI设计师",
+        "value": 0.0058788091
+    },
+    {
+        "source": "清楚",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "清楚",
+        "target": "视觉设计师",
+        "value": 0.0052504977
+    },
+    {
+        "source": "清楚",
+        "target": "用户体验",
+        "value": 0.0190220051
+    },
+    {
+        "source": "清楚",
+        "target": "产品经理",
+        "value": 0.0018066951
+    },
+    {
+        "source": "清楚",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "极高",
+        "target": "UI设计师",
+        "value": 0.0056118881
+    },
+    {
+        "source": "极高",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "极高",
+        "target": "视觉设计师",
+        "value": 0.0075181567
+    },
+    {
+        "source": "极高",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "极高",
+        "target": "产品经理",
+        "value": 0.0051739921
+    },
+    {
+        "source": "极高",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "连续",
+        "target": "UI设计师",
+        "value": 0.0054258565
+    },
+    {
+        "source": "连续",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "连续",
+        "target": "视觉设计师",
+        "value": 0.0024229778
+    },
+    {
+        "source": "连续",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "连续",
+        "target": "产品经理",
+        "value": 0.0066699688
+    },
+    {
+        "source": "连续",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "轻松",
+        "target": "UI设计师",
+        "value": 0.0048838113
+    },
+    {
+        "source": "轻松",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "轻松",
+        "target": "视觉设计师",
+        "value": 0.0
+    },
+    {
+        "source": "轻松",
+        "target": "用户体验",
+        "value": 0.0237037508
+    },
+    {
+        "source": "轻松",
+        "target": "产品经理",
+        "value": 0.0
+    },
+    {
+        "source": "轻松",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "常见",
+        "target": "UI设计师",
+        "value": 0.0043864335
+    },
+    {
+        "source": "常见",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "常见",
+        "target": "视觉设计师",
+        "value": 0.0
+    },
+    {
+        "source": "常见",
+        "target": "用户体验",
+        "value": 0.0212897098
+    },
+    {
+        "source": "常见",
+        "target": "产品经理",
+        "value": 0.0283091185
+    },
+    {
+        "source": "常见",
+        "target": "用户研究",
+        "value": 0.0352258709
+    },
+    {
+        "source": "重要",
+        "target": "UI设计师",
+        "value": 0.0041758209
+    },
+    {
+        "source": "重要",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "重要",
+        "target": "视觉设计师",
+        "value": 0.0074590406
+    },
+    {
+        "source": "重要",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "重要",
+        "target": "产品经理",
+        "value": 0.0025666542
+    },
+    {
+        "source": "重要",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "重本",
+        "target": "UI设计师",
+        "value": 0.0041466415
+    },
+    {
+        "source": "重本",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "重本",
+        "target": "视觉设计师",
+        "value": 0.0
+    },
+    {
+        "source": "重本",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "重本",
+        "target": "产品经理",
+        "value": 0.0
+    },
+    {
+        "source": "重本",
+        "target": "用户研究",
+        "value": 0.033300188
+    },
+    {
+        "source": "兴趣爱好",
+        "target": "UI设计师",
+        "value": 0.0041466415
+    },
+    {
+        "source": "兴趣爱好",
+        "target": "交互设计师",
+        "value": 0.0423927926
+    },
+    {
+        "source": "兴趣爱好",
+        "target": "视觉设计师",
+        "value": 0.0166655681
+    },
+    {
+        "source": "兴趣爱好",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "兴趣爱好",
+        "target": "产品经理",
+        "value": 0.0
+    },
+    {
+        "source": "兴趣爱好",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "有泛",
+        "target": "UI设计师",
+        "value": 0.0041466415
+    },
+    {
+        "source": "有泛",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "有泛",
+        "target": "视觉设计师",
+        "value": 0.0
+    },
+    {
+        "source": "有泛",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "有泛",
+        "target": "产品经理",
+        "value": 0.0
+    },
+    {
+        "source": "有泛",
+        "target": "用户研究",
+        "value": 0.033300188
+    },
+    {
+        "source": "有强",
+        "target": "UI设计师",
+        "value": 0.0041466415
+    },
+    {
+        "source": "有强",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "有强",
+        "target": "视觉设计师",
+        "value": 0.0
+    },
+    {
+        "source": "有强",
+        "target": "用户体验",
+        "value": 0.0402517424
+    },
+    {
+        "source": "有强",
+        "target": "产品经理",
+        "value": 0.0
+    },
+    {
+        "source": "有强",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "广泛",
+        "target": "UI设计师",
+        "value": 0.0038758727
+    },
+    {
+        "source": "广泛",
+        "target": "交互设计师",
+        "value": 0.0099061534
+    },
+    {
+        "source": "广泛",
+        "target": "视觉设计师",
+        "value": 0.0103848894
+    },
+    {
+        "source": "广泛",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "广泛",
+        "target": "产品经理",
+        "value": 0.0089335953
+    },
+    {
+        "source": "广泛",
+        "target": "用户研究",
+        "value": 0.0155628705
+    },
+    {
+        "source": "稳定",
+        "target": "UI设计师",
+        "value": 0.0035860848
+    },
+    {
+        "source": "稳定",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "稳定",
+        "target": "视觉设计师",
+        "value": 0.0096084411
+    },
+    {
+        "source": "稳定",
+        "target": "用户体验",
+        "value": 0.0174051895
+    },
+    {
+        "source": "稳定",
+        "target": "产品经理",
+        "value": 0.0033062624
+    },
+    {
+        "source": "稳定",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "不限",
+        "target": "UI设计师",
+        "value": 0.0034578051
+    },
+    {
+        "source": "不限",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "不限",
+        "target": "视觉设计师",
+        "value": 0.0
+    },
+    {
+        "source": "不限",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "不限",
+        "target": "产品经理",
+        "value": 0.0031879923
+    },
+    {
+        "source": "不限",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "不懈",
+        "target": "UI设计师",
+        "value": 0.0032765627
+    },
+    {
+        "source": "不懈",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "不懈",
+        "target": "视觉设计师",
+        "value": 0.0043895587
+    },
+    {
+        "source": "不懈",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "不懈",
+        "target": "产品经理",
+        "value": 0.0030208923
+    },
+    {
+        "source": "不懈",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "强悍",
+        "target": "UI设计师",
+        "value": 0.0032207968
+    },
+    {
+        "source": "强悍",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "强悍",
+        "target": "视觉设计师",
+        "value": 0.0
+    },
+    {
+        "source": "强悍",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "强悍",
+        "target": "产品经理",
+        "value": 0.0089084335
+    },
+    {
+        "source": "强悍",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "勤奋",
+        "target": "UI设计师",
+        "value": 0.0031943565
+    },
+    {
+        "source": "勤奋",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "勤奋",
+        "target": "视觉设计师",
+        "value": 0.0085588567
+    },
+    {
+        "source": "勤奋",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "勤奋",
+        "target": "产品经理",
+        "value": 0.0618471139
+    },
+    {
+        "source": "勤奋",
+        "target": "用户研究",
+        "value": 0.0256527292
+    },
+    {
+        "source": "灵感",
+        "target": "UI设计师",
+        "value": 0.0031227325
+    },
+    {
+        "source": "灵感",
+        "target": "交互设计师",
+        "value": 0.0159624785
+    },
+    {
+        "source": "灵感",
+        "target": "视觉设计师",
+        "value": 0.0167338994
+    },
+    {
+        "source": "灵感",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "灵感",
+        "target": "产品经理",
+        "value": 0.0
+    },
+    {
+        "source": "灵感",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "爱好",
+        "target": "UI设计师",
+        "value": 0.0029162734
+    },
+    {
+        "source": "爱好",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "爱好",
+        "target": "视觉设计师",
+        "value": 0.0078137697
+    },
+    {
+        "source": "爱好",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "爱好",
+        "target": "产品经理",
+        "value": 0.0
+    },
+    {
+        "source": "爱好",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "优异",
+        "target": "UI设计师",
+        "value": 0.0028069841
+    },
+    {
+        "source": "优异",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "优异",
+        "target": "视觉设计师",
+        "value": 0.0037604717
+    },
+    {
+        "source": "优异",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "优异",
+        "target": "产品经理",
+        "value": 0.0051759099
+    },
+    {
+        "source": "优异",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "充沛",
+        "target": "UI设计师",
+        "value": 0.0027713774
+    },
+    {
+        "source": "充沛",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "充沛",
+        "target": "视觉设计师",
+        "value": 0.00371277
+    },
+    {
+        "source": "充沛",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "充沛",
+        "target": "产品经理",
+        "value": 0.0025551266
+    },
+    {
+        "source": "充沛",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "活泼",
+        "target": "UI设计师",
+        "value": 0.0027289599
+    },
+    {
+        "source": "活泼",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "活泼",
+        "target": "视觉设计师",
+        "value": 0.0073118879
+    },
+    {
+        "source": "活泼",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "活泼",
+        "target": "产品经理",
+        "value": 0.005032038
+    },
+    {
+        "source": "活泼",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "好奇",
+        "target": "UI设计师",
+        "value": 0.0027017726
+    },
+    {
+        "source": "好奇",
+        "target": "交互设计师",
+        "value": 0.0276213132
+    },
+    {
+        "source": "好奇",
+        "target": "视觉设计师",
+        "value": 0.0
+    },
+    {
+        "source": "好奇",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "好奇",
+        "target": "产品经理",
+        "value": 0.0
+    },
+    {
+        "source": "好奇",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "紧密",
+        "target": "UI设计师",
+        "value": 0.002628551
+    },
+    {
+        "source": "紧密",
+        "target": "交互设计师",
+        "value": 0.1343636952
+    },
+    {
+        "source": "紧密",
+        "target": "视觉设计师",
+        "value": 0.0176071385
+    },
+    {
+        "source": "紧密",
+        "target": "用户体验",
+        "value": 0.02551553
+    },
+    {
+        "source": "紧密",
+        "target": "产品经理",
+        "value": 0.002423445
+    },
+    {
+        "source": "紧密",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "落实",
+        "target": "UI设计师",
+        "value": 0.0023856433
+    },
+    {
+        "source": "落实",
+        "target": "交互设计师",
+        "value": 0.0121946978
+    },
+    {
+        "source": "落实",
+        "target": "视觉设计师",
+        "value": 0.0063920163
+    },
+    {
+        "source": "落实",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "落实",
+        "target": "产品经理",
+        "value": 0.0131969483
+    },
+    {
+        "source": "落实",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "合适",
+        "target": "UI设计师",
+        "value": 0.0023407592
+    },
+    {
+        "source": "合适",
+        "target": "交互设计师",
+        "value": 0.0598263191
+    },
+    {
+        "source": "合适",
+        "target": "视觉设计师",
+        "value": 0.0062717554
+    },
+    {
+        "source": "合适",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "合适",
+        "target": "产品经理",
+        "value": 0.0
+    },
+    {
+        "source": "合适",
+        "target": "用户研究",
+        "value": 0.0187977961
+    },
+    {
+        "source": "合同",
+        "target": "UI设计师",
+        "value": 0.0022462421
+    },
+    {
+        "source": "合同",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "合同",
+        "target": "视觉设计师",
+        "value": 0.0
+    },
+    {
+        "source": "合同",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "合同",
+        "target": "产品经理",
+        "value": 0.012425806
+    },
+    {
+        "source": "合同",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "极大",
+        "target": "UI设计师",
+        "value": 0.0022190038
+    },
+    {
+        "source": "极大",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "极大",
+        "target": "视觉设计师",
+        "value": 0.0059455279
+    },
+    {
+        "source": "极大",
+        "target": "用户体验",
+        "value": 0.021540027
+    },
+    {
+        "source": "极大",
+        "target": "产品经理",
+        "value": 0.0061375645
+    },
+    {
+        "source": "极大",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "一般",
+        "target": "UI设计师",
+        "value": 0.0014963433
+    },
+    {
+        "source": "一般",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "一般",
+        "target": "视觉设计师",
+        "value": 0.0040092544
+    },
+    {
+        "source": "一般",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "一般",
+        "target": "产品经理",
+        "value": 0.0
+    },
+    {
+        "source": "一般",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "良好",
+        "target": "UI设计师",
+        "value": 1.0764069547
+    },
+    {
+        "source": "良好",
+        "target": "交互设计师",
+        "value": 0.8480565588
+    },
+    {
+        "source": "良好",
+        "target": "视觉设计师",
+        "value": 1.1165927899
+    },
+    {
+        "source": "良好",
+        "target": "用户体验",
+        "value": 0.9777737236
+    },
+    {
+        "source": "良好",
+        "target": "产品经理",
+        "value": 1.1453742084
+    },
+    {
+        "source": "良好",
+        "target": "用户研究",
+        "value": 1.1419910048
+    },
+    {
+        "source": "流畅",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "流畅",
+        "target": "交互设计师",
+        "value": 0.0433578972
+    },
+    {
+        "source": "流畅",
+        "target": "视觉设计师",
+        "value": 0.0151510867
+    },
+    {
+        "source": "流畅",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "流畅",
+        "target": "产品经理",
+        "value": 0.0104269711
+    },
+    {
+        "source": "流畅",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "浮躁",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "浮躁",
+        "target": "交互设计师",
+        "value": 0.0171393105
+    },
+    {
+        "source": "浮躁",
+        "target": "视觉设计师",
+        "value": 0.0
+    },
+    {
+        "source": "浮躁",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "浮躁",
+        "target": "产品经理",
+        "value": 0.0030913243
+    },
+    {
+        "source": "浮躁",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "缜密",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "缜密",
+        "target": "交互设计师",
+        "value": 0.017039394
+    },
+    {
+        "source": "缜密",
+        "target": "视觉设计师",
+        "value": 0.0044657148
+    },
+    {
+        "source": "缜密",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "缜密",
+        "target": "产品经理",
+        "value": 0.0460995437
+    },
+    {
+        "source": "缜密",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "有趣",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "有趣",
+        "target": "交互设计师",
+        "value": 0.013445945
+    },
+    {
+        "source": "有趣",
+        "target": "视觉设计师",
+        "value": 0.014095749
+    },
+    {
+        "source": "有趣",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "有趣",
+        "target": "产品经理",
+        "value": 0.0
+    },
+    {
+        "source": "有趣",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "团结",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "团结",
+        "target": "交互设计师",
+        "value": 0.0130747922
+    },
+    {
+        "source": "团结",
+        "target": "视觉设计师",
+        "value": 0.0
+    },
+    {
+        "source": "团结",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "团结",
+        "target": "产品经理",
+        "value": 0.0023582292
+    },
+    {
+        "source": "团结",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "尊重",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "尊重",
+        "target": "交互设计师",
+        "value": 0.0127037192
+    },
+    {
+        "source": "尊重",
+        "target": "视觉设计师",
+        "value": 0.0
+    },
+    {
+        "source": "尊重",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "尊重",
+        "target": "产品经理",
+        "value": 0.0022913008
+    },
+    {
+        "source": "尊重",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "频繁",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "频繁",
+        "target": "交互设计师",
+        "value": 0.011989026
+    },
+    {
+        "source": "频繁",
+        "target": "视觉设计师",
+        "value": 0.0
+    },
+    {
+        "source": "频繁",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "频繁",
+        "target": "产品经理",
+        "value": 0.004324791
+    },
+    {
+        "source": "频繁",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "过硬",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "过硬",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "过硬",
+        "target": "视觉设计师",
+        "value": 0.0179676044
+    },
+    {
+        "source": "过硬",
+        "target": "用户体验",
+        "value": 0.0650947552
+    },
+    {
+        "source": "过硬",
+        "target": "产品经理",
+        "value": 0.0061826486
+    },
+    {
+        "source": "过硬",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "极佳",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "极佳",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "极佳",
+        "target": "视觉设计师",
+        "value": 0.0169545616
+    },
+    {
+        "source": "极佳",
+        "target": "用户体验",
+        "value": 0.0307123036
+    },
+    {
+        "source": "极佳",
+        "target": "产品经理",
+        "value": 0.0058340609
+    },
+    {
+        "source": "极佳",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "正规",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "正规",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "正规",
+        "target": "视觉设计师",
+        "value": 0.0110936965
+    },
+    {
+        "source": "正规",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "正规",
+        "target": "产品经理",
+        "value": 0.0025448923
+    },
+    {
+        "source": "正规",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "坦诚",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "坦诚",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "坦诚",
+        "target": "视觉设计师",
+        "value": 0.0089973698
+    },
+    {
+        "source": "坦诚",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "坦诚",
+        "target": "产品经理",
+        "value": 0.0092879788
+    },
+    {
+        "source": "坦诚",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "善良",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "善良",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "善良",
+        "target": "视觉设计师",
+        "value": 0.0075844654
+    },
+    {
+        "source": "善良",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "善良",
+        "target": "产品经理",
+        "value": 0.0052196257
+    },
+    {
+        "source": "善良",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "热诚",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "热诚",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "热诚",
+        "target": "视觉设计师",
+        "value": 0.0048346515
+    },
+    {
+        "source": "热诚",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "热诚",
+        "target": "产品经理",
+        "value": 0.003327205
+    },
+    {
+        "source": "热诚",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "快捷",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "快捷",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "快捷",
+        "target": "视觉设计师",
+        "value": 0.0042545286
+    },
+    {
+        "source": "快捷",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "快捷",
+        "target": "产品经理",
+        "value": 0.0058559293
+    },
+    {
+        "source": "快捷",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "聪明",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "聪明",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "聪明",
+        "target": "视觉设计师",
+        "value": 0.0033995754
+    },
+    {
+        "source": "聪明",
+        "target": "用户体验",
+        "value": 0.0492652273
+    },
+    {
+        "source": "聪明",
+        "target": "产品经理",
+        "value": 0.0046791725
+    },
+    {
+        "source": "聪明",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "广阔",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "广阔",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "广阔",
+        "target": "视觉设计师",
+        "value": 0.0032660546
+    },
+    {
+        "source": "广阔",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "广阔",
+        "target": "产品经理",
+        "value": 0.006743092
+    },
+    {
+        "source": "广阔",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "显著",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "显著",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "显著",
+        "target": "视觉设计师",
+        "value": 0.0031655525
+    },
+    {
+        "source": "显著",
+        "target": "用户体验",
+        "value": 0.0458738645
+    },
+    {
+        "source": "显著",
+        "target": "产品经理",
+        "value": 0.0
+    },
+    {
+        "source": "显著",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "不错",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "不错",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "不错",
+        "target": "视觉设计师",
+        "value": 0.0028755733
+    },
+    {
+        "source": "不错",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "不错",
+        "target": "产品经理",
+        "value": 0.0039579366
+    },
+    {
+        "source": "不错",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "特殊",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "特殊",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "特殊",
+        "target": "视觉设计师",
+        "value": 0.002645701
+    },
+    {
+        "source": "特殊",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "特殊",
+        "target": "产品经理",
+        "value": 0.0018207702
+    },
+    {
+        "source": "特殊",
+        "target": "用户研究",
+        "value": 0.0
+    },
+    {
+        "source": "严密",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "严密",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "严密",
+        "target": "视觉设计师",
+        "value": 0.0
+    },
+    {
+        "source": "严密",
+        "target": "用户体验",
+        "value": 0.0512773034
+    },
+    {
+        "source": "严密",
+        "target": "产品经理",
+        "value": 0.0170459728
+    },
+    {
+        "source": "严密",
+        "target": "用户研究",
+        "value": 0.0636324197
+    },
+    {
+        "source": "最低",
+        "target": "UI设计师",
+        "value": 0.0
+    },
+    {
+        "source": "最低",
+        "target": "交互设计师",
+        "value": 0.0
+    },
+    {
+        "source": "最低",
+        "target": "视觉设计师",
+        "value": 0.0
+    },
+    {
+        "source": "最低",
+        "target": "用户体验",
+        "value": 0.0
+    },
+    {
+        "source": "最低",
+        "target": "产品经理",
+        "value": 0.0019954017
+    },
+    {
+        "source": "最低",
+        "target": "用户研究",
+        "value": 0.0173805606
+    }
+]
