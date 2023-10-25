@@ -15,7 +15,7 @@ const svg = d3.select("#my_dataviz")
 
 // Read data
 let dataAdj = []
-await d3.json("./data/data_adj.json").then(data => {
+await d3.json("./data/data_adj2.json").then(data => {
     dataAdj = data;
 })
 console.log(dataAdj);
@@ -54,12 +54,14 @@ const ribbon = d3.ribbon()
 
 const color = d3.scaleOrdinal(d3.schemeCategory10)
     .domain(allTargets);
+console.log(allTargets);
 
 const color2 = d3.scaleOrdinal(d3.schemeCategory10)
     .domain(allSources)
 
 const chords = chord(matrix);
-console.log(chords);
+console.log(chords.groups.filter(d => d.value != 0));
+
 
 const groups = new Map();
 chords.forEach(chord => {
@@ -94,13 +96,15 @@ svg.append("g")
     .enter()
     .append("path")
     .attr("d", ribbon)
-    .style("fill", d => color(d.target.index))
+    .style("fill", function (d) {
+        return color(d.target.index)
+    })
     .style("opacity", 0.7)
     .style("stroke", d => d3.rgb(color(d.target.index)).darker())
 
 svg.append("g")
     .selectAll("text")
-    .data(chords.groups)
+    .data(chords.groups.filter(d => d.value != 0))
     .enter()
     .append("text")
     .attr("x", d => (outerRadius - 20) * Math.sin((d.startAngle + d.endAngle) / 2))
@@ -108,3 +112,33 @@ svg.append("g")
     .text((d, i) => allNodes[i])  // 使用 nodeNames 数组中的名称
     .style("font-size", "7px")
     .style("text-anchor", "middle");
+
+svg.append("g")
+    .selectAll("text")
+    .data(positionLabels)
+    .enter()
+    .append("text")
+    .attr("x", (d, i) => i * 80 - 230)
+    .attr("y", 350)
+    .text(function (d) {
+        return d
+    })
+    .style("fill", "black")
+    .style("font-size", "10px")
+
+svg.append("g")
+    .selectAll("rect")
+    .data(allTargets)
+    .enter()
+    .append("rect")
+    .attr("x", (d, i) => i * 80 - 245)
+    .attr("y", 344)
+    .attr("height", "5px")
+    .attr("width", "12px")
+    .style("fill", function (d) {
+        console.log(allNodes.indexOf(d));
+        return color(allNodes.indexOf(d))
+    })
+    .style("opacity", 0.7)
+
+
